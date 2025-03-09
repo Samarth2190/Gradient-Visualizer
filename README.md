@@ -1,1 +1,2 @@
 # Gradient-Visualizer
+VGG16 Gradient Visualizer is a deep learning project designed to visualize the gradients of activations in a VGG16 model. This tool helps in understanding how gradients flow through different layers, providing insights into feature learning and model interpretability.
